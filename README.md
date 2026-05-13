@@ -1,1 +1,0 @@
-# bd-gestao-eventos-academicos
