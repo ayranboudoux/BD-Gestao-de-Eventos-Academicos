@@ -7,6 +7,10 @@ Banco de dados relacional desenvolvido para gerenciar eventos acadêmicos, inclu
 ## Sobre o Projeto
 
 O **GEA** é um projeto acadêmico de modelagem e implementação de banco de dados relacional utilizando **MySQL**. O sistema foi projetado para atender as necessidades de instituições de ensino na organização de eventos como palestras, workshops, seminários, minicursos e mesas redondas.
+Esse projeto foi desenvolvido por:
+[Visite meu perfil](https://github.com/kauwendel)
+[Visite meu perfil](https://github.com/rclima522-bit)
+[Visite meu perfil](https://github.com/ayranboudoux)
 
 ---
 
