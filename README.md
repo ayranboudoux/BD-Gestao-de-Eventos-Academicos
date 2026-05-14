@@ -26,7 +26,7 @@ bd-gestao-eventos-academicos/
 │
 ├── docs/
 │   └── diagramas       # Diagramas conceitual e lógico
-│
+│   └── documentacao   
 └── README.md
 ```
 
